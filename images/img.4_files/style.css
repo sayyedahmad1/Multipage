@@ -1,0 +1,23 @@
+.ready{
+background: url('https://static.vecteezy.com/system/resources/thumbnails/002/018/568/original/spot-lighting-with-smoke-effect-on-a-black-background-free-video.jpg');
+background-size: cover;
+background-attachment: fixed;
+background-position: center center;
+}
+
+.see{
+    background: url('http://wallpaperset.com/w/full/4/9/0/14926.jpg');
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center center; 
+}
+
+.fa-cog::before{
+    font-size: 50px;
+}
+.fas:before{
+    font-size: 50px;
+}
+.fa-play:before{
+    font-size: 50px;
+}
